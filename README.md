@@ -1,4 +1,4 @@
-# 🛒 Product Store
+# 🛒 Product Store using MERN Stack
 
 Home Page
 ![Home Page Screenshot](https://github.com/juaneleanor/Product-Store/blob/main/frontend/public/HomePage.png)
