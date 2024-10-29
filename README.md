@@ -1,20 +1,23 @@
-# Product Store
+# 🛒 Product Store
 
+Home Page
 ![Home Page Screenshot](https://github.com/juaneleanor/Product-Store/blob/main/frontend/public/HomePage.png)
-![Create Page Screenshot](https://github.com/juaneleanor/Product-Store/blob/main/frontend/public/CreatePage.png)
 
-## Description
+## 🗒️ Description
 
 This is a responsive web application that allows users to create, view, and manage their products in their online store. It provides a user-friendly interface for adding, editing, and deleting products, as well as displaying a list of all products. Credits to the creator of the project - [@asaprogrammer\_](https://www.youtube.com/@asaprogrammer_). His video can be found [here](https://youtu.be/MDZC8VDZnV8?si=UZXAlKfMi4vpbhUD) and the original GitHub repository can be found [here](https://github.com/burakorkmez/mern-crash-course).
 
-### Tech Stack
+Create Page
+![Create Page Screenshot](https://github.com/juaneleanor/Product-Store/blob/main/frontend/public/CreatePage.png)
+
+### 🍔 Tech Stack
 
 - MongoDB
 - Express
 - React
 - Node.js
 
-## Usage
+## 🛠️ Usage
 
 Here’s how you can use the project:
 
